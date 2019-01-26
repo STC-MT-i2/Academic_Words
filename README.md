@@ -432,4 +432,6 @@ in-house system 内部系统 e.g., Our PBMT system is an in-house system similar
 
 vis-a-vis 和什么比较 e.g, End2end approach to machine translation has achieved competitive results vis-a-vis statistical machine translation on various language pairs.
 
+Succinct 简洁的 e.g, I give a tutorial about succinct data structure for NLP-at-Scale
+
 ```
