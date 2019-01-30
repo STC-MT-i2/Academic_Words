@@ -436,4 +436,6 @@ Succinct 简洁的 e.g, I give a tutorial about succinct data structure for NLP-
 
 be tailored for 为什么量身定做 e.g, In this work, we propose a novel extension of the GCN that is tailored for relation extraction.
 
+considerably outperforms 可观的超过 e.g, Experimental results on the WAT15 English-Japanese dataset demonstrate that our proposed model considerably outperforms sequence-to-sequence attentional NMT models and compares favorably with the state-of-the-art tree-to-string system.
+
 ```
