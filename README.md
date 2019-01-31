@@ -438,4 +438,6 @@ be tailored for 为什么量身定做 e.g, In this work, we propose a novel exte
 
 considerably outperforms 可观的超过 e.g, Experimental results on the WAT15 English-Japanese dataset demonstrate that our proposed model considerably outperforms sequence-to-sequence attentional NMT models and compares favorably with the state-of-the-art tree-to-string system.
 
+inherently 自身的,固有的 e.g, Despite their success, BiLSTMs have been shown to suffer several limitations. For example, their inherently sequential nature endows computation non-parallel within the same sentence, which can lead to a computational bottleneck, hindering their use in the industry. 
+
 ```
