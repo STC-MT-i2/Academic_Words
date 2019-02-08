@@ -442,6 +442,6 @@ inherently 自身的,固有的 e.g, Despite their success, BiLSTMs have been sho
 
 stands for 代表 e.g.,We introduce a new language representation model called BERT, which stands for Bidirectional Encoder Representation from Transformers.
 
-
+conceptually 概念上的 e.g., BERT is conceptually simple and empirically powerful. It obtains new state-of-the-art results on eleven natural language processing tasks, including pushing the GLEU benchmark to 80.4%(7.6% absolute improvement).
 
 ```
