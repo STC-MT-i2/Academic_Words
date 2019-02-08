@@ -446,4 +446,5 @@ conceptually 概念上的 e.g., BERT is conceptually simple and empirically powe
 
 usher in 引领，引进 e.g., The past year has ushered in an exciting age for NLP using deep neural networks.
 
+massive leap  巨大的飞跃 e.g., Research in the field of using pre-trained models have resulted in massive leap in state-of-the-art results for many of the NLP tasks, such as text classification, natural language inference and question-answering.
 ```
