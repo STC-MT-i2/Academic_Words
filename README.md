@@ -444,4 +444,6 @@ stands for 代表 e.g.,We introduce a new language representation model called B
 
 conceptually 概念上的 e.g., BERT is conceptually simple and empirically powerful. It obtains new state-of-the-art results on eleven natural language processing tasks, including pushing the GLEU benchmark to 80.4%(7.6% absolute improvement).
 
+usher in 引领，引进 e.g., The past year has ushered in an exciting age for NLP using deep neural networks.
+
 ```
