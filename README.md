@@ -54,8 +54,6 @@ contributes to sth/doing sth 有助于 e.g, the entity also contributes to learn
 
 learning corpora 训练语料
 
-
-
 Therefore=hence 因此 <=> 后面用 thereafter 之后
 
 in order to 为了  in order to take full use of the learning data, as well as to robustly deal with the noisy and uneven-quality QA-pairs, inspired by Sachan and Xing，we propose a natural answer generation framework based on curriculum learning
@@ -134,10 +132,9 @@ leverage 利用 e.g, To reduce the number of parameters and leverage potential c
 
 deployed—deploy<==>employ 使用、配置 e.g, State-of-the-art neural machine translation models are deployed and used following the high-level framework provided by Keras.
 
- Given its 鉴于其 e.g,  Given its high modularity and flexibility , it also has been extended to tackle different problems ,such as image and video captioning, sentence classification and visual question answering.
+Given its 鉴于其 e.g,  Given its high modularity and flexibility , it also has been extended to tackle different problems ,such as image and video captioning, sentence classification and visual question answering.
 
 striking difference 显著的差异
-
 
 explicable == interpretable 可解释的  e.g, Do NMT models extract linguistic features from raw data and exploit them in explicable ways?
 
@@ -169,8 +166,7 @@ surpassing 超越 e.g, this approach surpassing phrase-based translation in near
 
 converts 转换 e.g, the encoder converts the words of the source sentence into word embeddings , then into a sequence of hidden states
 
-
- intuitively 直觉地 e.g, we can intuitively interpret the terms as follows.
+intuitively 直觉地 e.g, we can intuitively interpret the terms as follows.
 
 propose instead 相反地提出 e.g, we propose instead to use a simple feedforward neural network that is trained jointly with the rest of the NMT model to generate a target word 
 
