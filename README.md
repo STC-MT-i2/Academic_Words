@@ -445,4 +445,7 @@ usher in 引领，引进 e.g., The past year has ushered in an exciting age for 
 massive leap  巨大的飞跃 e.g., Research in the field of using pre-trained models have resulted in massive leap in state-of-the-art results for many of the NLP tasks, such as text classification, natural language inference and question-answering.
 
 progressively 逐个地 e.g., In this approach an out of vocabulary word is progressively split into subwords and the word is then represented by a group of subwords.
+
+needlessly 不必要的 e.g., When processing shorter sentences, this may be overkill, using needlessly large amounts of memory and computation time.
+
 ```
