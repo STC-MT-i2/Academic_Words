@@ -448,4 +448,6 @@ progressively 逐个地 e.g., In this approach an out of vocabulary word is prog
 
 needlessly 不必要的 e.g., When processing shorter sentences, this may be overkill, using needlessly large amounts of memory and computation time.
 
+exclusively 只有，唯一地 e.g., This paper focuses exclusively on two player, zero-sum, perfect recall games.
+
 ```
